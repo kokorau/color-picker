@@ -1,5 +1,8 @@
 module.exports = {
   root: true,
+  globals: {
+    EyeDropper: true,
+  },
   env: {
     node: true,
   },
